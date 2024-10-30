@@ -478,12 +478,12 @@ if(isset($_REQUEST['email'])){
                   </a>
   '.$aler.'
                   <h4 class="card-title mb-1">Delivery Test</h4>
-                  <p class="card-text mb-2">Tip: you can fast check delivery with this link directly <br><a href="'.$stra.'?email=walfo19@gmail.com">'. $stra.'?email=walfo19@gmail.com</a></p>
+                  <p class="card-text mb-2">Tip: you can fast check delivery with this link directly <br><a href="'.$stra.'?email=youremail@domain.com">'. $stra.'?email=youremail@domain.com</a></p>
   
                   <form method="post">
                         <div class="form-group">
                           <label class="form-label">Email</label>
-                          <input required="" type="email" class="form-control" name="email" placeholder="walfo19@gmail.com" autofocus="" style="
+                          <input required="" type="email" class="form-control" name="email" placeholder="youremail@domain.com" autofocus="" style="
           border-color: #404656;
           background-color: #283046;
           color: #B4B7BD;
